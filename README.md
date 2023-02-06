@@ -1,1 +1,1 @@
-<strong> Welcome to the refresher course on HTML </strong>
+# Welcome to Michael Hartl's course on HTML!  
